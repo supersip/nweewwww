@@ -22,11 +22,11 @@ class TEXT:
 
 ** Developer:** {bot_owner}
 
-** Channel:** [BOT UPDATES]()
+** Channel:** [BOT UPDATES](https://t.me/RestinHeaven)
 
-** Group:** [BOT SUPPORT]()
+** Group:** [BOT SUPPORT](https://t.me/HeavenBotSupport)
 
-** Source Code:** [Press Me]()
+** Source Code:** [Press Me](https://t.me/RestinHeaven)
 """
 
     HELP_USER = """**Follow Below Steps:**
@@ -36,7 +36,7 @@ class TEXT:
 ☞︎︎︎ Now send me the Telegram file you want to rename.
 ☞︎︎︎ Send the new name when bot ask.
 
-For source code check about
+** Group:** [BOT SUPPORT](https://t.me/HeavenBotSupport)
 """
 
     START_TEXT = """Hi {user_mention},
@@ -59,4 +59,4 @@ __--Payment Methods:--__
  
 GooglePay / Paytm / PhonPay / paypal / Net Banking
  
-**For Donate:** """
+**For Donate:** NO THANKS """
